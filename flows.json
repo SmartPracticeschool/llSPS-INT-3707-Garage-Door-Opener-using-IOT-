@@ -1,1 +1,0 @@
-[{"id":"83780f8a.06aff","type":"http request","z":"4d9da17a.037e3","name":"","method":"GET","ret":"obj","paytoqs":"ignore","url":"https://c905bfa1-fed6-4ccb-8bd5-395f211d1068-bluemix.cloudant.com/sample/_all_docs?include_docs=true&descending=true&limit=1","tls":"","persist":false,"proxy":"","authType":"basic","x":370,"y":680,"wires":[["78c4598b.0d45f8"]]}]
