@@ -1,6 +1,6 @@
 Hello Folks :)
 
-Here is my project based on IOT garage opening with the following features:-
+Here is my project based on IOT garage opening on jetson nano with the following features:-
 
 1) Stream live video to the web using flask(with face detection)
 
